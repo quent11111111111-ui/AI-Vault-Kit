@@ -1,0 +1,8 @@
+---
+type: knowledge-index
+domain: Finance
+updated: 2026-11-11
+tags: [knowledge]
+---
+# Connaissances : Finance
+Une note par sujet durable (frontmatter : `type: knowledge`, `domain: Finance`, `status`, `updated`, `sources`). Aucune note n'existe encore.
